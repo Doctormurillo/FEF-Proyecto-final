@@ -1,0 +1,121 @@
+{
+    padding: 0%;
+    margin: 0;
+    
+}
+
+h1{
+    width: 100%;
+    height: 50px;
+    font-size: 2rem;
+    font-family: 'Playfair';
+    color: #000;
+    text-align: center;
+
+}
+span{
+    color: #037bc0;
+}
+.hero{
+    width: 100%;
+    height: 300px;
+    background-color: #C7C8C9;
+    font-family: 'Raleway';
+    font-size: 2rem;
+    text-align: center;
+    align-items: center;
+}
+h2{
+    width: 100%;
+    height: 40%;
+    font-family: Playfair;
+    color: #000;
+    text-align: center;
+}
+.cont1{
+    width: 80%;
+    height: 250px;
+    border: 1px solid  #C7C8C9;
+    border-radius: 10px;
+    margin-left: 10%
+}
+.prod1-1{
+    width: 70%;
+    height: 250px;
+    box-sizing: border-box;
+    overflow: scroll;
+    float: left;
+}
+.p1{
+    border-radius: 10px 0px 10px 0px;
+}
+.prod1-2{
+    width: 30%;
+    height: 250px;
+    background-color: #037bc0;
+    float: left;
+    border-radius: 0px 10px 10px 0px;
+}
+h3{
+    width: 100%;
+    height: 50px;
+    color:#ffffff;
+    text-align: center;
+    margin-top: 10px;
+    float: left;
+
+}
+
+.mip{
+    width: 80%;
+    height: 80px;
+    font-family: 'Raleway';
+    font-size: 0.8rem;
+    color: #ffffff;
+    margin-left: 10%;
+    float: left;
+}
+.precio{
+    height: 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Raleway';
+    float: left;
+    width: 100%;
+    
+}
+.btn1{
+    width: 50%;
+    height: 50px;
+    float: left;
+    margin-left: 25%;
+
+}
+.cont2{
+    width: 80%;
+    height: 400px;
+    margin-left: 10%;
+    margin-top: 5px;
+    float: left;
+    border-radius: 10px;
+
+}
+.prod2{
+    width: 49%;
+    height: 400px;
+    float: left;
+    border-radius: 10px;
+    border: 1px solid  #C7C8C9;
+}
+.prod3{
+    width: 49%;
+    height: 400px;
+    float: left;
+    border-radius: 10px;
+    border: 1px solid  #C7C8C9;
+    margin-left: 2%;
+}
+
+
+
